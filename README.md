@@ -2,6 +2,8 @@
 
 Example PostgreSQL install with Ansible on Vagrant for local machine testing.
 
+**Disclaimer: Unsecure install only suitable for local machine testing.**
+
 ## Environment
 
 Here's what my installs look like:
@@ -17,6 +19,12 @@ On that Windows Subsystem for Linux I have these installed:
 
 * Python 2.7.12
 * [Ansible 2.5.0][3]
+
+## Quickstart
+
+```powershell
+start.ps1
+```
 
 ## pgAdmin credentials
 
